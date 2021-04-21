@@ -1,2 +1,3 @@
 # super-duper-octo-spork
-Jällaskitfan
+En simpel lista med spel som Simon vill att Jonte ska spela.
+Här ska det inte vara en lista Simon.
